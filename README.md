@@ -1,4 +1,4 @@
-# Fundamentos De Programacion
+# Fundamentos De Programación
 
 Este repositorio almacena las prácticas realizadas durante el curso 2018/2019 para la asignatura [FUNDAMENTOS DE PROGRAMACIÓN (780003)](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Fundamentos-de-Programacion-780003/) del departamento Ciencias de la Computación de la Universidad de Alcalá.
 
